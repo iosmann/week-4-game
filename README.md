@@ -12,4 +12,4 @@ The player wins if their total score matches the random number from the beginnin
 
 The player loses if their score goes above the random number.
 
-The game restarts whenever the player wins or loses Click the link below to view the site: https://hodanroble.github.io/week-4-game
+The game restarts whenever the player wins or loses Click the link below to view the site: https://iosmann.github.io/week-4-game
